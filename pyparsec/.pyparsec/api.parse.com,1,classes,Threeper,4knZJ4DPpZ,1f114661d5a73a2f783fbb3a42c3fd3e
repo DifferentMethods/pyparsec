@@ -1,0 +1,17 @@
+status: 200
+content-length: 103
+content-location: https://api.parse.com/1/classes/Threeper/4knZJ4DPpZ
+set-cookie: _parse_session=BAh7BkkiD3Nlc3Npb25faWQGOgZFRiIlODdlZWRiYWUyZjllMTJjZGJhNDZhNWVlZDBiYzY5OGE%3D--fb20b246936ab237a9274975e2a5ffb2b515afcd;
+ domain=.parse.com; path=/; expires=Wed, 11-May-2022 09:09:00 GMT; HttpOnly
+connection: keep-alive
+server: nginx/1.0.14
+access-control-request-method: *
+x-runtime: 0.011166
+etag: "f3efe3ad52936e44b950bd197cb0fecf"
+x-ua-compatible: IE=Edge,chrome=1
+cache-control: max-age=0, private, must-revalidate
+date: Fri, 11 May 2012 09:09:00 GMT
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+
+{"createdAt":"2012-05-11T09:09:00.113Z","updatedAt":"2012-05-11T09:09:00.113Z","objectId":"4knZJ4DPpZ"}
